@@ -11,7 +11,7 @@ Eksperimen_SML_Muhammad-Rizqy-Septyandy/
 │   └── personality_dataset.csv               # Dataset mentah
 └── preprocessing/
     ├── Eksperimen_Muhammad-Rizqy-Septyandy.ipynb   # Notebook eksperimen (template MSML)
-    ├── automate_Muhammad-Rizqy-Septyandy.py        # Script otomatisasi (Skilled+)
+    ├── automate_Muhammad-Rizqy-Septyandy.py        # Script otomatisasi
     └── personality_preprocessing/                   # Hasil preprocessing
 ```
 
